@@ -9,7 +9,7 @@ import InputsGroup7 from './InputsGroup7';
 export default function Inputs() {
   return (
     <div className=' w-full my-10'>
-      <p className=' font-medium text-2xl leading-9'>Inputs</p>
+      <p className=' font-medium text-2xl leading-9'>Inputssss</p>
       <div className=' grid grid-cols-1 gap-11'>
         <InputsGroup1 />
         <InputsGroup2 />
